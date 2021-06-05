@@ -2,8 +2,15 @@ Body {
     background-color: #f37520;
 }
 .rnd {
-    size: 2em;
     color: white;
-    text-align: center;
-   
+    text-align: center;  
 }
+
+a {
+    text-decoration: none;
+    
+}
+ a:hover {
+     color:  #07050470;
+     
+ }
