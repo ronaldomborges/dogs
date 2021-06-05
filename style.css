@@ -1,3 +1,9 @@
 Body {
     background-color: #f37520;
 }
+.rnd {
+    size: 2em;
+    color: white;
+    text-align: center;
+   
+}
